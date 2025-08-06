@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spa-management/static/css/main.e6c13ad2.css",
+    "main.js": "/spa-management/static/js/main.d61c764f.js",
+    "index.html": "/spa-management/index.html",
+    "main.e6c13ad2.css.map": "/spa-management/static/css/main.e6c13ad2.css.map",
+    "main.d61c764f.js.map": "/spa-management/static/js/main.d61c764f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d61c764f.js"
+  ]
+}
